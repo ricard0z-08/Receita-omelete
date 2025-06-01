@@ -12,6 +12,7 @@ body > div {
 background-color: #fff;
 max-width: 736px;
 margin-inline: auto;
+margin-block: 64px;
 }
 
 div img {
